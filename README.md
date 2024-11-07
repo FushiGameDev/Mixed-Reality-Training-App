@@ -15,6 +15,7 @@ This application was developed as part of a thesis project at the Silesian Unive
 - <b>C# </b>
 - <b>Mixed Reality Toolkit </b>
 - <b>Python </b>
+- <b>Json </b>
 
 
 <h2>Program walk-through:</h2>
